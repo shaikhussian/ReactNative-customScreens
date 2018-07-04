@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/nueve/Documents/ReactNative-customScreens/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/nueve/Documents/ReactNative-customScreens/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/nueve/Documents/ReactNative-customScreens/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/nueve/Documents/ReactNative-customScreens/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/nueve/Documents/ReactNative-customScreens/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/nueve/Documents/ReactNative-customScreens/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/nueve/Documents/ReactNative-customScreens/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/nueve/Documents/ReactNative-customScreens/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/nueve/Documents/ReactNative-customScreens/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/nueve/Documents/ReactNative-customScreens/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/nueve/Documents/ReactNative-customScreens/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/nueve/Documents/ReactNative-customScreens/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/nueve/Documents/ReactNative-customScreens/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/nueve/Documents/ReactNative-customScreens/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/nueve/Documents/ReactNative-customScreens/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/nueve/Documents/ReactNative-customScreens/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/nueve/Documents/ReactNative-customScreens/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/nueve/Documents/ReactNative-customScreens/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/nueve/Documents/ReactNative-customScreens/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/nueve/Documents/ReactNative-customScreens/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/nueve/Documents/ReactNative-customScreens/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/nueve/Documents/ReactNative-customScreens/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
