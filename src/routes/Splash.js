@@ -12,8 +12,8 @@ export default class Splash extends Component {
     return (
       <View>
         <Text>Loading . . .</Text>
-        <Link to="/todo-list">
-          <Text>ToDo List</Text>
+        <Link to="/signin">
+          <Text>Login</Text>
         </Link>
       </View>
     );
@@ -21,7 +21,7 @@ export default class Splash extends Component {
 
   componentDidMount() {
     setTimeout(() => {
-      this.props.history.push('/todo-list');
+      this.props.history.push('/signin');
     }, 3000);
   }
 }
