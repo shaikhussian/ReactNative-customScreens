@@ -16,7 +16,7 @@ export default class Login extends Component {
             <Container>
                 <Content contentContainerStyle={{flex:1,justifyContent: 'center'}}>
                         <InputText>USER NAME</InputText>
-                        <InputText>Password</InputText>
+                        <InputText >Password</InputText>
                     <Button onPress={this.Login.bind(this)}>
                         <Text>Login</Text>
                     </Button>

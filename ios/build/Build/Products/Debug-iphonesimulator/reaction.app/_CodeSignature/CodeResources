@@ -18,7 +18,7 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		v/d/TZ5lO6sGJA8JT46t6/dxnOc=
+		yaMe+xZvrHZtKOmr0ugNbpGcnx0=
 		</data>
 		<key>Comic Sans MS.ttf</key>
 		<data>
@@ -43,47 +43,6 @@
 		<key>Foundation.ttf</key>
 		<data>
 		SyvObHkkk6SlcWtv7C2+/olJLD8=
-		</data>
-		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
-		<data>
-		FHZwkJVcmz0wRoKSzRVlRo7LqVs=
-		</data>
-		<key>Frameworks/IDEBundleInjection.framework/Info.plist</key>
-		<data>
-		LxMbf5l1Y6KxTybY0QVdfOIO5kU=
-		</data>
-		<key>Frameworks/IDEBundleInjection.framework/_CodeSignature/CodeResources</key>
-		<data>
-		nSihaBKSW4sp31+ZAefaMpPQxlM=
-		</data>
-		<key>Frameworks/IDEBundleInjection.framework/version.plist</key>
-		<data>
-		zd8yH8C0GrJHWHJaiINm2ZEoAEk=
-		</data>
-		<key>Frameworks/XCTest.framework/Info.plist</key>
-		<data>
-		vaYGxV5xeNv3Xwbh9qrg229EZ5w=
-		</data>
-		<key>Frameworks/XCTest.framework/XCTest</key>
-		<data>
-		efk0+NiH4gdv7dBOwJwQxmBNNBk=
-		</data>
-		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
-		<data>
-		lzovnb8UeQa/mYKOjx9BKAGtaZY=
-		</data>
-		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TuBj57ZP6zBqcL9HttO2Rucaw9E=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/XCTest.framework/version.plist</key>
-		<data>
-		yLUgLGsvOrTOJzFlbX+XYKXM31s=
 		</data>
 		<key>Georgia.ttf</key>
 		<data>
@@ -116,26 +75,6 @@
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
-		</data>
-		<key>PlugIns/reactionTests.xctest.dSYM/Contents/Info.plist</key>
-		<data>
-		JMqpiVWP0+Jum5LoPNMunPj2J78=
-		</data>
-		<key>PlugIns/reactionTests.xctest.dSYM/Contents/Resources/DWARF/reactionTests</key>
-		<data>
-		yzjYqaGOWtLqQIOZlNIWf55bNKc=
-		</data>
-		<key>PlugIns/reactionTests.xctest/Info.plist</key>
-		<data>
-		sz+prd1Bab3XC7KlxMzjPhocjYc=
-		</data>
-		<key>PlugIns/reactionTests.xctest/_CodeSignature/CodeResources</key>
-		<data>
-		TWmpy6Oe0cNS/dOVhw7lu4IdQzA=
-		</data>
-		<key>PlugIns/reactionTests.xctest/reactionTests</key>
-		<data>
-		Jir7raSv3AQSRbsJPYmSkGGwmZ0=
 		</data>
 		<key>Roboto.ttf</key>
 		<data>
@@ -209,11 +148,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			v/d/TZ5lO6sGJA8JT46t6/dxnOc=
+			yaMe+xZvrHZtKOmr0ugNbpGcnx0=
 			</data>
 			<key>hash2</key>
 			<data>
-			0wSMobzwZfIbhh+GC2ectcErWfvFc1MXK6gzE69LRwc=
+			ZeKz/UYWqtK0BSIjrIOifTk/yh3fShoV5TGJJxfNNtg=
 			</data>
 		</dict>
 		<key>Comic Sans MS.ttf</key>
@@ -282,107 +221,6 @@
 			fh3QPdTOkLZYBSVUzXRZ3xZxZxc4mlUvpMbVal+JM+Y=
 			</data>
 		</dict>
-		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			FHZwkJVcmz0wRoKSzRVlRo7LqVs=
-			</data>
-			<key>hash2</key>
-			<data>
-			XEJmxymYtVGij8TlhvXFk5qiWqcUIwXuRdzt1n6V93Q=
-			</data>
-		</dict>
-		<key>Frameworks/IDEBundleInjection.framework/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			LxMbf5l1Y6KxTybY0QVdfOIO5kU=
-			</data>
-			<key>hash2</key>
-			<data>
-			N4GVuJ5Z0JwchjiReHrYKP98YmS4esuSk6cDgCkAOiA=
-			</data>
-		</dict>
-		<key>Frameworks/IDEBundleInjection.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			nSihaBKSW4sp31+ZAefaMpPQxlM=
-			</data>
-			<key>hash2</key>
-			<data>
-			ALFQXB3ogINAqnKCpIqequEfOM14x6XidGbLr9VD5Lc=
-			</data>
-		</dict>
-		<key>Frameworks/IDEBundleInjection.framework/version.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zd8yH8C0GrJHWHJaiINm2ZEoAEk=
-			</data>
-			<key>hash2</key>
-			<data>
-			xNtog5TiXEum66gXK9HFLae12gJNr9htsgT5IpuaXTI=
-			</data>
-		</dict>
-		<key>Frameworks/XCTest.framework/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vaYGxV5xeNv3Xwbh9qrg229EZ5w=
-			</data>
-			<key>hash2</key>
-			<data>
-			2fwUYftxc/VhgPPTJBC37kD9QWwXD2wgHSoRTkhAudY=
-			</data>
-		</dict>
-		<key>Frameworks/XCTest.framework/XCTest</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			efk0+NiH4gdv7dBOwJwQxmBNNBk=
-			</data>
-			<key>hash2</key>
-			<data>
-			vdUeZdPSQ7q5X6jmqcxQVWtexuol6KTqeyEGXo2UDNM=
-			</data>
-		</dict>
-		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			lzovnb8UeQa/mYKOjx9BKAGtaZY=
-			</data>
-			<key>hash2</key>
-			<data>
-			WIyahSej5U1IgbnBZBwcI/bTRlRSzKLXwi/7+QErA7s=
-			</data>
-		</dict>
-		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TuBj57ZP6zBqcL9HttO2Rucaw9E=
-			</data>
-			<key>hash2</key>
-			<data>
-			89RGkjZaKuewYnjpzwhIswhqfrU8+pcEXqM/DHVrUmo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/XCTest.framework/version.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yLUgLGsvOrTOJzFlbX+XYKXM31s=
-			</data>
-			<key>hash2</key>
-			<data>
-			psn3f9GzyAkXmzTU+vf5xjnZ5KNVLj89BwSJrmxGCqc=
-			</data>
-		</dict>
 		<key>Georgia.ttf</key>
 		<dict>
 			<key>hash</key>
@@ -447,61 +285,6 @@
 			<key>hash2</key>
 			<data>
 			NC9CWcIUkNdDyFv9XLIgM5voHcU7RU+sU2mnqmpBMI4=
-			</data>
-		</dict>
-		<key>PlugIns/reactionTests.xctest.dSYM/Contents/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			JMqpiVWP0+Jum5LoPNMunPj2J78=
-			</data>
-			<key>hash2</key>
-			<data>
-			khcI4mVc/Ih3As/Mvn73uD2Vt893Exu6UOcXrQ8szc4=
-			</data>
-		</dict>
-		<key>PlugIns/reactionTests.xctest.dSYM/Contents/Resources/DWARF/reactionTests</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yzjYqaGOWtLqQIOZlNIWf55bNKc=
-			</data>
-			<key>hash2</key>
-			<data>
-			3AWCzeq/jfZ/M95Uz8wGc3PP5GDftffWr7wEWs/2IN8=
-			</data>
-		</dict>
-		<key>PlugIns/reactionTests.xctest/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			sz+prd1Bab3XC7KlxMzjPhocjYc=
-			</data>
-			<key>hash2</key>
-			<data>
-			BDZlO0bUltd+JkSWQD0J8uCHvoAiYgxtSOSIr+a5jcE=
-			</data>
-		</dict>
-		<key>PlugIns/reactionTests.xctest/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TWmpy6Oe0cNS/dOVhw7lu4IdQzA=
-			</data>
-			<key>hash2</key>
-			<data>
-			6gqf0vpFtPTYpFSgnHp8l+nidOhk1lvn20nxNT6g96M=
-			</data>
-		</dict>
-		<key>PlugIns/reactionTests.xctest/reactionTests</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Jir7raSv3AQSRbsJPYmSkGGwmZ0=
-			</data>
-			<key>hash2</key>
-			<data>
-			+t0dG5mSZuD4gdVS4J547fW/rgX6U9aZfSLJV14Rbnc=
 			</data>
 		</dict>
 		<key>Roboto.ttf</key>
